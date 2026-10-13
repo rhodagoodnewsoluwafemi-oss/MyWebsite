@@ -1,0 +1,29 @@
+* {
+    margin: 20px;
+    padding: 0px;
+    border-radius: 0px;
+}
+
+.root {
+    --primary-color:black;
+    --primary--color-dark:gray;
+    --background-color:white;
+    --text-align:center;
+    --font-family:sans-serif;
+}
+
+header {
+    padding: 100px 20px;
+}
+
+.logo {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+header h3 {
+    font-weight: 300px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
